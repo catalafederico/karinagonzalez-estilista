@@ -868,3 +868,14 @@ body {
         transform: rotateZ(0deg);
     }
 }
+
+.contact {
+    display: flex;
+    align-items: center;
+}
+
+
+.contact-line {
+    padding: 20px 20px;
+    font-size: 20px;
+}
